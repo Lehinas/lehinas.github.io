@@ -292,6 +292,10 @@ main{
     padding:0 10px;
 }
 
+.cats_from_types:hover{
+    transform: scale(120%);
+}
+
 .cats_from_types .text{
     font-size: 12px;
     width: 116px;
